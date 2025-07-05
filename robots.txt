@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danipaises.github.io/Dani-pa-ses-store-web-/sitemap.xml
